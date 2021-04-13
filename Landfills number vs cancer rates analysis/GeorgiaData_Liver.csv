@@ -1,0 +1,162 @@
+County, FIPS,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval,CancerType
+Georgia,13000,8.2,7.9,8.4,936.00,stable,1,-3.6,5.7,Liver
+US,0,8.4,8.4,8.5,33355.00,stable,0.4,-0.2,1.1,Liver
+Monroe,13207,13.5,8.3,20.8,5.00,*,*,*,*,Liver
+Bryan,13029,13.3,8.2,20.4,4.00,*,*,*,*,Liver
+Carroll,13045,12.2,9.6,15.4,15.00,rising,10.5,6.6,14.6,Liver
+Haralson,13143,12,7.6,18.4,5.00,*,*,*,*,Liver
+Clayton,13063,11.9,9.9,14.1,29.00,rising,5,3.3,6.7,Liver
+Jackson,13157,11.6,8.5,15.7,9.00,*,*,*,*,Liver
+Floyd,13115,11.5,8.9,14.6,14.00,rising,6.8,2.8,10.9,Liver
+Murray,13213,11.2,7.3,16.5,5.00,*,*,*,*,Liver
+Gilmer,13123,11.1,7.1,16.8,5.00,*,*,*,*,Liver
+Whitfield,13313,10.9,8.3,14.1,12.00,*,*,*,*,Liver
+Spalding,13255,10.8,7.8,14.7,9.00,rising,4.2,0.4,8.1,Liver
+Baldwin,13009,10.8,7.1,15.8,6.00,*,*,*,*,Liver
+Ware,13299,10.5,6.7,15.9,5.00,*,*,*,*,Liver
+Troup,13285,10.4,7.5,14.2,9.00,rising,4.5,1,8.1,Liver
+Chattooga,13055,10.3,5.9,17,3.00,stable,4.7,-1.2,10.8,Liver
+Gordon,13129,10.3,7,14.6,7.00,*,*,*,*,Liver
+Union,13291,10.2,6.2,16.8,5.00,*,*,*,*,Liver
+Effingham,13103,10.2,6.5,15.1,5.00,*,*,*,*,Liver
+Wayne,13305,10,5.8,16.1,4.00,*,*,*,*,Liver
+Muscogee,13215,9.9,8.1,12,21.00,rising,8.7,4.7,12.9,Liver
+Bibb,13021,9.8,7.8,12.1,18.00,rising,7.2,3.7,10.8,Liver
+Newton,13217,9.7,7.3,12.8,11.00,*,*,*,*,Liver
+Barrow,13013,9.6,6.7,13.3,8.00,stable,1.9,-1.7,5.6,Liver
+Richmond,13245,9.3,7.7,11.3,23.00,rising,6.1,2.8,9.6,Liver
+Douglas,13097,9.3,7.1,11.9,13.00,rising,7.5,2.8,12.3,Liver
+Walton,13297,9.3,6.8,12.3,10.00,rising,4.8,0.9,8.8,Liver
+Bartow,13015,9.2,6.9,12.1,11.00,rising,6,2.5,9.8,Liver
+DeKalb,13089,9.1,8.1,10.1,70.00,rising,4.1,3.1,5.1,Liver
+Chatham,13051,8.9,7.5,10.5,30.00,rising,3.9,1.2,6.6,Liver
+Colquitt,13071,8.9,5.6,13.5,5.00,*,*,*,*,Liver
+Fannin,13111,8.7,5.4,14.2,4.00,*,*,*,*,Liver
+Gwinnett,13135,8.7,7.7,9.7,68.00,rising,3.2,2.4,4.1,Liver
+Polk,13233,8.6,5.4,13.3,4.00,*,*,*,*,Liver
+Madison,13195,8.6,4.8,14.4,3.00,*,*,*,*,Liver
+Fulton,13121,8.6,7.8,9.5,91.00,rising,3.5,2.6,4.4,Liver
+Tift,13277,8.4,5.1,13.1,4.00,*,*,*,*,Liver
+Pickens,13227,8.3,4.8,13.6,4.00,stable,3.7,-1.2,8.8,Liver
+Coweta,13077,8.3,6.2,10.8,12.00,rising,6.7,2.4,11.1,Liver
+Clarke,13059,8.1,5.8,10.9,9.00,*,*,*,*,Liver
+Walker,13295,7.9,5.5,11.2,7.00,stable,1.9,-1.4,5.3,Liver
+Paulding,13223,7.9,5.9,10.3,12.00,stable,0.7,-2.2,3.7,Liver
+White,13311,7.8,4.6,12.9,4.00,*,*,*,*,Liver
+Liberty,13179,7.5,4.3,12.1,4.00,stable,1,-5.4,7.8,Liver
+Cobb,13067,7.4,6.5,8.4,54.00,rising,3.7,2.4,5,Liver
+Hall,13139,7.4,5.8,9.2,16.00,stable,1.9,-0.6,4.4,Liver
+Forsyth,13117,7,5.4,9,14.00,stable,0.7,-3.1,4.7,Liver
+Thomas,13275,7,4.3,10.9,4.00,stable,0,-4.2,4.3,Liver
+Cherokee,13057,7,5.5,8.7,18.00,stable,2.6,-0.6,5.9,Liver
+Houston,13153,7,5.2,9.1,11.00,rising,4.1,0.3,8.1,Liver
+Dougherty,13095,6.9,4.8,9.7,7.00,stable,3.1,-0.9,7.3,Liver
+Henry,13151,6.9,5.4,8.8,15.00,stable,1.8,-3.1,7.1,Liver
+Laurens,13175,6.9,4.1,10.8,4.00,*,*,*,*,Liver
+Lowndes,13185,6.8,4.8,9.5,7.00,*,*,*,*,Liver
+Camden,13039,6.7,4,10.7,4.00,*,*,*,*,Liver
+Habersham,13137,5.8,3.3,9.7,3.00,*,*,*,*,Liver
+Catoosa,13047,5.8,3.7,8.7,5.00,*,*,*,*,Liver
+Bulloch,13031,5.7,3.5,9,4.00,*,*,*,*,Liver
+Fayette,13113,5.6,3.9,7.7,8.00,rising,3.6,0.2,7.1,Liver
+Rockdale,13247,5.5,3.7,7.9,6.00,*,*,*,*,Liver
+Columbia,13073,5.1,3.5,7,8.00,stable,0.4,-3.7,4.7,Liver
+Glynn,13127,4.7,3.1,6.9,6.00,stable,1.3,-4.3,7.1,Liver
+Appling,13001,* ,*, *,3 or fewer,*,*,*,*,Liver
+Atkinson,13003,* ,*, *,3 or fewer,*,*,*,*,Liver
+Bacon,13005,* ,*, *,3 or fewer,*,*,*,*,Liver
+Baker,13007,* ,*, *,3 or fewer,*,*,*,*,Liver
+Banks,13011,* ,*, *,3 or fewer,*,*,*,*,Liver
+Ben Hill,13017,* ,*, *,3 or fewer,*,*,*,*,Liver
+Berrien,13019,* ,*, *,3 or fewer,*,*,*,*,Liver
+Bleckley,13023,* ,*, *,3 or fewer,*,*,*,*,Liver
+Brantley,13025,* ,*, *,3 or fewer,*,*,*,*,Liver
+Brooks,13027,* ,*, *,3 or fewer,*,*,*,*,Liver
+Burke,13033,* ,*, *,3 or fewer,*,*,*,*,Liver
+Butts,13035,* ,*, *,3 or fewer,*,*,*,*,Liver
+Calhoun,13037,* ,*, *,3 or fewer,*,*,*,*,Liver
+Candler,13043,* ,*, *,3 or fewer,*,*,*,*,Liver
+Charlton,13049,* ,*, *,3 or fewer,*,*,*,*,Liver
+Chattahoochee,13053,* ,*, *,3 or fewer,*,*,*,*,Liver
+Clay,13061,* ,*, *,3 or fewer,*,*,*,*,Liver
+Clinch,13065,* ,*, *,3 or fewer,*,*,*,*,Liver
+Coffee,13069,* ,*, *,3 or fewer,*,*,*,*,Liver
+Cook,13075,* ,*, *,3 or fewer,*,*,*,*,Liver
+Crawford,13079,* ,*, *,3 or fewer,*,*,*,*,Liver
+Crisp,13081,* ,*, *,3 or fewer,*,*,*,*,Liver
+Dade,13083,* ,*, *,3 or fewer,*,*,*,*,Liver
+Dawson,13085,* ,*, *,3 or fewer,*,*,*,*,Liver
+Decatur,13087,* ,*, *,3 or fewer,*,*,*,*,Liver
+Dodge,13091,* ,*, *,3 or fewer,*,*,*,*,Liver
+Dooly,13093,* ,*, *,3 or fewer,*,*,*,*,Liver
+Early,13099,* ,*, *,3 or fewer,*,*,*,*,Liver
+Echols,13101,* ,*, *,3 or fewer,*,*,*,*,Liver
+Elbert,13105,* ,*, *,3 or fewer,*,*,*,*,Liver
+Emanuel,13107,* ,*, *,3 or fewer,*,*,*,*,Liver
+Evans,13109,* ,*, *,3 or fewer,*,*,*,*,Liver
+Franklin,13119,* ,*, *,3 or fewer,*,*,*,*,Liver
+Glascock,13125,* ,*, *,3 or fewer,*,*,*,*,Liver
+Grady,13131,* ,*, *,3 or fewer,*,*,*,*,Liver
+Greene,13133,* ,*, *,3 or fewer,*,*,*,*,Liver
+Hancock,13141,* ,*, *,3 or fewer,*,*,*,*,Liver
+Harris,13145,* ,*, *,3 or fewer,*,*,*,*,Liver
+Hart,13147,* ,*, *,3 or fewer,*,*,*,*,Liver
+Heard,13149,* ,*, *,3 or fewer,*,*,*,*,Liver
+Irwin,13155,* ,*, *,3 or fewer,*,*,*,*,Liver
+Jasper,13159,* ,*, *,3 or fewer,*,*,*,*,Liver
+Jeff Davis,13161,* ,*, *,3 or fewer,*,*,*,*,Liver
+Jefferson,13163,* ,*, *,3 or fewer,*,*,*,*,Liver
+Jenkins,13165,* ,*, *,3 or fewer,*,*,*,*,Liver
+Johnson,13167,* ,*, *,3 or fewer,*,*,*,*,Liver
+Jones,13169,* ,*, *,3 or fewer,*,*,*,*,Liver
+Lamar,13171,* ,*, *,3 or fewer,*,*,*,*,Liver
+Lanier,13173,* ,*, *,3 or fewer,*,*,*,*,Liver
+Lee,13177,* ,*, *,3 or fewer,*,*,*,*,Liver
+Lincoln,13181,* ,*, *,3 or fewer,*,*,*,*,Liver
+Long,13183,* ,*, *,3 or fewer,*,*,*,*,Liver
+Lumpkin,13187,* ,*, *,3 or fewer,*,*,*,*,Liver
+Macon,13193,* ,*, *,3 or fewer,*,*,*,*,Liver
+Marion,13197,* ,*, *,3 or fewer,*,*,*,*,Liver
+McDuffie,13189,* ,*, *,3 or fewer,*,*,*,*,Liver
+McIntosh,13191,* ,*, *,3 or fewer,*,*,*,*,Liver
+Meriwether,13199,* ,*, *,3 or fewer,*,*,*,*,Liver
+Miller,13201,* ,*, *,3 or fewer,*,*,*,*,Liver
+Mitchell,13205,* ,*, *,3 or fewer,*,*,*,*,Liver
+Montgomery,13209,* ,*, *,3 or fewer,*,*,*,*,Liver
+Morgan,13211,* ,*, *,3 or fewer,*,*,*,*,Liver
+Oconee,13219,* ,*, *,3 or fewer,*,*,*,*,Liver
+Oglethorpe,13221,* ,*, *,3 or fewer,*,*,*,*,Liver
+Peach,13225,* ,*, *,3 or fewer,*,*,*,*,Liver
+Pierce,13229,* ,*, *,3 or fewer,*,*,*,*,Liver
+Pike,13231,* ,*, *,3 or fewer,*,*,*,*,Liver
+Pulaski,13235,* ,*, *,3 or fewer,*,*,*,*,Liver
+Putnam,13237,* ,*, *,3 or fewer,*,*,*,*,Liver
+Quitman,13239,* ,*, *,3 or fewer,*,*,*,*,Liver
+Rabun,13241,* ,*, *,3 or fewer,*,*,*,*,Liver
+Randolph,13243,* ,*, *,3 or fewer,*,*,*,*,Liver
+Schley,13249,* ,*, *,3 or fewer,*,*,*,*,Liver
+Screven,13251,* ,*, *,3 or fewer,*,*,*,*,Liver
+Seminole,13253,* ,*, *,3 or fewer,*,*,*,*,Liver
+Stephens,13257,* ,*, *,3 or fewer,*,*,*,*,Liver
+Stewart,13259,* ,*, *,3 or fewer,*,*,*,*,Liver
+Sumter,13261,* ,*, *,3 or fewer,*,*,*,*,Liver
+Talbot,13263,* ,*, *,3 or fewer,*,*,*,*,Liver
+Taliaferro,13265,* ,*, *,3 or fewer,*,*,*,*,Liver
+Tattnall,13267,* ,*, *,3 or fewer,*,*,*,*,Liver
+Taylor,13269,* ,*, *,3 or fewer,*,*,*,*,Liver
+Telfair,13271,* ,*, *,3 or fewer,*,*,*,*,Liver
+Terrell,13273,* ,*, *,3 or fewer,*,*,*,*,Liver
+Toombs,13279,* ,*, *,3 or fewer,*,*,*,*,Liver
+Towns,13281,* ,*, *,3 or fewer,*,*,*,*,Liver
+Treutlen,13283,* ,*, *,3 or fewer,*,*,*,*,Liver
+Turner,13287,* ,*, *,3 or fewer,*,*,*,*,Liver
+Twiggs,13289,* ,*, *,3 or fewer,*,*,*,*,Liver
+Upson,13293,* ,*, *,3 or fewer,*,*,*,*,Liver
+Warren,13301,* ,*, *,3 or fewer,*,*,*,*,Liver
+Washington,13303,* ,*, *,3 or fewer,*,*,*,*,Liver
+Webster,13307,* ,*, *,3 or fewer,*,*,*,*,Liver
+Wheeler,13309,* ,*, *,3 or fewer,*,*,*,*,Liver
+Wilcox,13315,* ,*, *,3 or fewer,*,*,*,*,Liver
+Wilkes,13317,* ,*, *,3 or fewer,*,*,*,*,Liver
+Wilkinson,13319,* ,*, *,3 or fewer,*,*,*,*,Liver
+Worth,13321,* ,*, *,3 or fewer,*,*,*,*,Liver

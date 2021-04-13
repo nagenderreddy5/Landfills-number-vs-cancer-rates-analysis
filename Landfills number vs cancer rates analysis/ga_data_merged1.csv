@@ -1,0 +1,180 @@
+County, FIPS,"Age-Adjusted Incidence Rate(â€ ) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (â€¡) in Incidence Rates,Lower 95% Confidence Interval.1,Upper 95% Confidence Interval.1,CancerType,Unnamed: 0,Landfill Name,State
+Newton,13217,22.2,18.3,26.7,24.0,stable,0,-2.6,2.7,Non-Hodgkin Lymphoma,608,Newton County Landfill,GA
+Newton,13217,,7.3,12.8,11.0,*,,*,*,Liver,608,Newton County Landfill,GA
+Newton,13217,,16.3,24.6,20.0,stable,,-0.5,7.7,Leukemia,608,Newton County Landfill,GA
+Newton,13217,,17.6,25.8,23.0,rising,3.3,1.2,5.4,Kidney,608,Newton County Landfill,GA
+Bartow,13015,21.7,17.8,26.1,23.0,stable,-0.3,-3.3,2.8,Non-Hodgkin Lymphoma,560,Bartow County MSWLF,GA
+Bartow,13015,,73.3,88.8,92.0,falling,,-2.7,-0.2,Lung & Bronchus,560,Bartow County MSWLF,GA
+Bartow,13015,,6.9,12.1,11.0,rising,,2.5,9.8,Liver,560,Bartow County MSWLF,GA
+Bartow,13015,,13.8,21.4,18.0,stable,,-2.7,3.3,Leukemia,560,Bartow County MSWLF,GA
+Bartow,13015,,15.1,22.6,21.0,stable,1.3,-1.3,3.8,Kidney,560,Bartow County MSWLF,GA
+Camden,13039,21.5,16,28.2,11.0,stable,3,-1.5,7.8,Non-Hodgkin Lymphoma,564,Camden County SR 110 MSW Landfill,GA
+Camden,13039,,4,10.7,4.0,*,,*,*,Liver,564,Camden County SR 110 MSW Landfill,GA
+Camden,13039,,12.3,23.8,8.0,stable,2.5,-2.9,8.2,Kidney,564,Camden County SR 110 MSW Landfill,GA
+Fayette,13113,21.4,18,25.4,29.0,stable,0.8,-1.1,2.6,Non-Hodgkin Lymphoma,617,Roberts Road Landfill,GA
+Fayette,13113,,3.9,7.7,8.0,rising,,0.2,7.1,Liver,617,Roberts Road Landfill,GA
+Hall,13139,21,18.3,24.1,43.0,rising,1.7,0.2,3.2,Non-Hodgkin Lymphoma,594,Hall County Allen Creek Landfill,GA
+Hall,13139,21,18.3,24.1,43.0,rising,1.7,0.2,3.2,Non-Hodgkin Lymphoma,595,Hall County Candler Road MSWLF,GA
+Hall,13139,,5.8,9.2,16.0,stable,,-0.6,4.4,Liver,594,Hall County Allen Creek Landfill,GA
+Hall,13139,,5.8,9.2,16.0,stable,,-0.6,4.4,Liver,595,Hall County Candler Road MSWLF,GA
+Hall,13139,,13.1,18.2,31.0,rising,,0.5,4.5,Leukemia,594,Hall County Allen Creek Landfill,GA
+Hall,13139,,13.1,18.2,31.0,rising,,0.5,4.5,Leukemia,595,Hall County Candler Road MSWLF,GA
+Forsyth,13117,20.7,17.9,23.9,41.0,stable,-0.2,-2,1.7,Non-Hodgkin Lymphoma,585,Eagle Point Landfill LLC,GA
+Forsyth,13117,,5.4,9,14.0,stable,,-3.1,4.7,Liver,585,Eagle Point Landfill LLC,GA
+Forsyth,13117,,16.8,22.7,37.0,stable,,-0.7,4.1,Leukemia,585,Eagle Point Landfill LLC,GA
+Richmond,13245,20.7,17.9,23.7,42.0,stable,2.1,-0.1,4.4,Non-Hodgkin Lymphoma,581,Deans Bridge Road MSWLF,GA
+Richmond,13245,,7.7,11.3,23.0,rising,,2.8,9.6,Liver,581,Deans Bridge Road MSWLF,GA
+Richmond,13245,,17.4,23,44.0,rising,3,0.9,5.1,Kidney,581,Deans Bridge Road MSWLF,GA
+Thomas,13275,20.3,15.1,26.9,11.0,stable,1.2,-1.7,4.2,Non-Hodgkin Lymphoma,574,City of Thomasville MSWLF,GA
+Thomas,13275,,67.3,88.1,46.0,stable,,-3,1,Lung & Bronchus,574,City of Thomasville MSWLF,GA
+Thomas,13275,,4.3,10.9,4.0,stable,,-4.2,4.3,Liver,574,City of Thomasville MSWLF,GA
+Thomas,13275,,12.3,22.8,9.0,rising,,0.4,5.1,Leukemia,574,City of Thomasville MSWLF,GA
+Thomas,13275,,15.9,27.8,12.0,stable,0.5,-3.8,5,Kidney,574,City of Thomasville MSWLF,GA
+Floyd,13115,20.2,16.7,24.4,23.0,stable,-0.2,-2.3,1.8,Non-Hodgkin Lymphoma,628,Walker Mountain Landfill,GA
+Floyd,13115,,8.9,14.6,14.0,rising,,2.8,10.9,Liver,628,Walker Mountain Landfill,GA
+Floyd,13115,,18.7,26.8,26.0,rising,3,0.6,5.5,Kidney,628,Walker Mountain Landfill,GA
+Tift,13277,20,14.4,27,9.0,stable,1.9,-1.5,5.4,Non-Hodgkin Lymphoma,575,City of Tifton / Omega / Eldorado Road LF,GA
+Tift,13277,,71.8,96.2,38.0,stable,,-1.2,3.4,Lung & Bronchus,575,City of Tifton / Omega / Eldorado Road LF,GA
+Tift,13277,,5.1,13.1,4.0,*,,*,*,Liver,575,City of Tifton / Omega / Eldorado Road LF,GA
+Tift,13277,,14.5,27,9.0,stable,,-1.8,5.9,Leukemia,575,City of Tifton / Omega / Eldorado Road LF,GA
+Tift,13277,,14,26.2,9.0,stable,3.4,-0.7,7.7,Kidney,575,City of Tifton / Omega / Eldorado Road LF,GA
+Gwinnett,13135,20,18.4,21.6,146.0,rising,0.9,0.4,1.5,Non-Hodgkin Lymphoma,561,BJ Landfill,GA
+Gwinnett,13135,20,18.4,21.6,146.0,rising,0.9,0.4,1.5,Non-Hodgkin Lymphoma,563,Button-Gwinnett Landfill Phase III,GA
+Gwinnett,13135,20,18.4,21.6,146.0,rising,0.9,0.4,1.5,Non-Hodgkin Lymphoma,616,Richland Creek Road Landfill,GA
+Gwinnett,13135,,7.7,9.7,68.0,rising,,2.4,4.1,Liver,561,BJ Landfill,GA
+Gwinnett,13135,,7.7,9.7,68.0,rising,,2.4,4.1,Liver,563,Button-Gwinnett Landfill Phase III,GA
+Gwinnett,13135,,7.7,9.7,68.0,rising,,2.4,4.1,Liver,616,Richland Creek Road Landfill,GA
+Gwinnett,13135,,14.1,16.9,112.0,rising,,0.6,2.2,Leukemia,561,BJ Landfill,GA
+Gwinnett,13135,,14.1,16.9,112.0,rising,,0.6,2.2,Leukemia,563,Button-Gwinnett Landfill Phase III,GA
+Gwinnett,13135,,14.1,16.9,112.0,rising,,0.6,2.2,Leukemia,616,Richland Creek Road Landfill,GA
+Bibb,13021,19.7,16.7,23.1,32.0,stable,0.8,-0.7,2.3,Non-Hodgkin Lymphoma,604,Macon Bibb Walker Road MSWL,GA
+Bibb,13021,19.7,16.7,23.1,32.0,stable,0.8,-0.7,2.3,Non-Hodgkin Lymphoma,623,Swift Creek Environmental Landfill,GA
+Bibb,13021,,7.8,12.1,18.0,rising,,3.7,10.8,Liver,604,Macon Bibb Walker Road MSWL,GA
+Bibb,13021,,7.8,12.1,18.0,rising,,3.7,10.8,Liver,623,Swift Creek Environmental Landfill,GA
+Bibb,13021,,14.8,20.6,31.0,stable,,-1.1,3.8,Leukemia,604,Macon Bibb Walker Road MSWL,GA
+Bibb,13021,,14.8,20.6,31.0,stable,,-1.1,3.8,Leukemia,623,Swift Creek Environmental Landfill,GA
+Bibb,13021,,16.2,22.2,33.0,stable,-0.1,-1.7,1.5,Kidney,604,Macon Bibb Walker Road MSWL,GA
+Bibb,13021,,16.2,22.2,33.0,stable,-0.1,-1.7,1.5,Kidney,623,Swift Creek Environmental Landfill,GA
+Cherokee,13057,19.7,17.2,22.5,47.0,stable,0.1,-2,2.3,Non-Hodgkin Lymphoma,612,Pine Bluff Landfill,GA
+Cherokee,13057,,5.5,8.7,18.0,stable,,-0.6,5.9,Liver,612,Pine Bluff Landfill,GA
+Cherokee,13057,,13.7,18.6,37.0,stable,,-4.9,22,Leukemia,612,Pine Bluff Landfill,GA
+Cherokee,13057,,17.4,22.6,51.0,rising,4.6,1.9,7.4,Kidney,612,Pine Bluff Landfill,GA
+Gordon,13129,19.5,14.8,25.1,12.0,stable,-0.5,-2.9,1.9,Non-Hodgkin Lymphoma,590,Gordon County Redbone Ridges LF,GA
+Gordon,13129,,81.1,102.9,58.0,stable,,-1.2,1.1,Lung & Bronchus,590,Gordon County Redbone Ridges LF,GA
+Gordon,13129,,7,14.6,7.0,*,,*,*,Liver,590,Gordon County Redbone Ridges LF,GA
+Gordon,13129,,12.1,21.8,10.0,stable,,-4.6,0.7,Leukemia,590,Gordon County Redbone Ridges LF,GA
+Gordon,13129,,17.5,28.5,14.0,rising,5.1,1,9.3,Kidney,590,Gordon County Redbone Ridges LF,GA
+DeKalb,13089,19,17.6,20.6,134.0,stable,-4.5,-11.6,3.2,Non-Hodgkin Lymphoma,597,Hickory Ridge Landfill,GA
+DeKalb,13089,19,17.6,20.6,134.0,stable,-4.5,-11.6,3.2,Non-Hodgkin Lymphoma,600,Key Road Landfill,GA
+DeKalb,13089,19,17.6,20.6,134.0,stable,-4.5,-11.6,3.2,Non-Hodgkin Lymphoma,603,Live Oak LF,GA
+DeKalb,13089,19,17.6,20.6,134.0,stable,-4.5,-11.6,3.2,Non-Hodgkin Lymphoma,619,Seminole Road MSW Landfill,GA
+DeKalb,13089,,8.1,10.1,70.0,rising,,3.1,5.1,Liver,597,Hickory Ridge Landfill,GA
+DeKalb,13089,,8.1,10.1,70.0,rising,,3.1,5.1,Liver,600,Key Road Landfill,GA
+DeKalb,13089,,8.1,10.1,70.0,rising,,3.1,5.1,Liver,603,Live Oak LF,GA
+DeKalb,13089,,8.1,10.1,70.0,rising,,3.1,5.1,Liver,619,Seminole Road MSW Landfill,GA
+DeKalb,13089,,13.6,16.3,100.0,rising,,0.3,1.8,Leukemia,597,Hickory Ridge Landfill,GA
+DeKalb,13089,,13.6,16.3,100.0,rising,,0.3,1.8,Leukemia,600,Key Road Landfill,GA
+DeKalb,13089,,13.6,16.3,100.0,rising,,0.3,1.8,Leukemia,603,Live Oak LF,GA
+DeKalb,13089,,13.6,16.3,100.0,rising,,0.3,1.8,Leukemia,619,Seminole Road MSW Landfill,GA
+Fulton,13121,18.8,17.5,20.1,178.0,stable,0,-0.6,0.7,Non-Hodgkin Lymphoma,566,Cascade Road Landfill,GA
+Fulton,13121,18.8,17.5,20.1,178.0,stable,0,-0.6,0.7,Non-Hodgkin Lymphoma,569,Chambers-Bolton Road,GA
+Fulton,13121,18.8,17.5,20.1,178.0,stable,0,-0.6,0.7,Non-Hodgkin Lymphoma,589,Fulton County Merk Miles Road Landfill,GA
+Fulton,13121,18.8,17.5,20.1,178.0,stable,0,-0.6,0.7,Non-Hodgkin Lymphoma,592,Gun Club Road landfill,GA
+Fulton,13121,18.8,17.5,20.1,178.0,stable,0,-0.6,0.7,Non-Hodgkin Lymphoma,606,Morgan Falls,GA
+Fulton,13121,18.8,17.5,20.1,178.0,stable,0,-0.6,0.7,Non-Hodgkin Lymphoma,620,Southern States-Bolton Road,GA
+Fulton,13121,18.8,17.5,20.1,178.0,stable,0,-0.6,0.7,Non-Hodgkin Lymphoma,629,Watts Road LF,GA
+Fulton,13121,,7.8,9.5,91.0,rising,,2.6,4.4,Liver,566,Cascade Road Landfill,GA
+Fulton,13121,,7.8,9.5,91.0,rising,,2.6,4.4,Liver,569,Chambers-Bolton Road,GA
+Fulton,13121,,7.8,9.5,91.0,rising,,2.6,4.4,Liver,589,Fulton County Merk Miles Road Landfill,GA
+Fulton,13121,,7.8,9.5,91.0,rising,,2.6,4.4,Liver,592,Gun Club Road landfill,GA
+Fulton,13121,,7.8,9.5,91.0,rising,,2.6,4.4,Liver,606,Morgan Falls,GA
+Fulton,13121,,7.8,9.5,91.0,rising,,2.6,4.4,Liver,620,Southern States-Bolton Road,GA
+Fulton,13121,,7.8,9.5,91.0,rising,,2.6,4.4,Liver,629,Watts Road LF,GA
+Muscogee,13215,18.7,16.1,21.6,38.0,stable,1.4,-0.8,3.6,Non-Hodgkin Lymphoma,577,Columbus Pine Grove MSWLF,GA
+Muscogee,13215,18.7,16.1,21.6,38.0,stable,1.4,-0.8,3.6,Non-Hodgkin Lymphoma,578,Columbus-Schatulga Road SLF,GA
+Muscogee,13215,18.7,16.1,21.6,38.0,stable,1.4,-0.8,3.6,Non-Hodgkin Lymphoma,587,Fort Benning LF,GA
+Muscogee,13215,,8.1,12,21.0,rising,,4.7,12.9,Liver,577,Columbus Pine Grove MSWLF,GA
+Muscogee,13215,,8.1,12,21.0,rising,,4.7,12.9,Liver,578,Columbus-Schatulga Road SLF,GA
+Muscogee,13215,,8.1,12,21.0,rising,,4.7,12.9,Liver,587,Fort Benning LF,GA
+Muscogee,13215,,12.6,17.6,30.0,stable,,-0.3,3.2,Leukemia,577,Columbus Pine Grove MSWLF,GA
+Muscogee,13215,,12.6,17.6,30.0,stable,,-0.3,3.2,Leukemia,578,Columbus-Schatulga Road SLF,GA
+Muscogee,13215,,12.6,17.6,30.0,stable,,-0.3,3.2,Leukemia,587,Fort Benning LF,GA
+Carroll,13045,18.7,15.2,22.6,21.0,stable,1.6,-0.1,3.3,Non-Hodgkin Lymphoma,565,Carroll County - Carrollton SR 166 MSW Landfill,GA
+Carroll,13045,,75.1,90.1,99.0,stable,,-0.6,0.6,Lung & Bronchus,565,Carroll County - Carrollton SR 166 MSW Landfill,GA
+Carroll,13045,,9.6,15.4,15.0,rising,,6.6,14.6,Liver,565,Carroll County - Carrollton SR 166 MSW Landfill,GA
+Carroll,13045,,12,18.8,17.0,stable,,-0.5,4.8,Leukemia,565,Carroll County - Carrollton SR 166 MSW Landfill,GA
+Carroll,13045,,18,26,25.0,rising,3.6,1.8,5.3,Kidney,565,Carroll County - Carrollton SR 166 MSW Landfill,GA
+Lowndes,13185,18.5,14.9,22.7,19.0,stable,1.9,-0.7,4.5,Non-Hodgkin Lymphoma,556,"Advanced Disposal Services Evergreen Landfill, Inc.",GA
+Lowndes,13185,,4.8,9.5,7.0,*,,*,*,Liver,556,"Advanced Disposal Services Evergreen Landfill, Inc.",GA
+Lowndes,13185,,11.8,18.7,16.0,stable,,-0.4,4.2,Leukemia,556,"Advanced Disposal Services Evergreen Landfill, Inc.",GA
+Clayton,13063,18.4,15.8,21.4,40.0,rising,1.1,0.1,2,Non-Hodgkin Lymphoma,576,Clayton County SR 3 Lovejoy Landfill,GA
+Clayton,13063,,9.9,14.1,29.0,rising,,3.3,6.7,Liver,576,Clayton County SR 3 Lovejoy Landfill,GA
+Clayton,13063,,12.7,17.9,32.0,rising,,1.5,3.7,Leukemia,576,Clayton County SR 3 Lovejoy Landfill,GA
+Habersham,13137,18.4,13.5,24.6,10.0,stable,1.3,-2,4.6,Non-Hodgkin Lymphoma,593,Habersham County SR13 MSWL,GA
+Habersham,13137,,3.3,9.7,3.0,*,,*,*,Liver,593,Habersham County SR13 MSWL,GA
+Habersham,13137,,12.9,23.3,10.0,rising,,0.3,7.1,Leukemia,593,Habersham County SR13 MSWL,GA
+Habersham,13137,,12.5,23,9.0,stable,1.4,-2.1,5.1,Kidney,593,Habersham County SR13 MSWL,GA
+Polk,13233,18.4,13.3,25,9.0,stable,-0.3,-3.8,3.3,Non-Hodgkin Lymphoma,591,Grady Road Landfill,GA
+Polk,13233,18.4,13.3,25,9.0,stable,-0.3,-3.8,3.3,Non-Hodgkin Lymphoma,614,Polk County Landfill #1,GA
+Polk,13233,,89.8,115.6,52.0,stable,,-2,1.5,Lung & Bronchus,591,Grady Road Landfill,GA
+Polk,13233,,89.8,115.6,52.0,stable,,-2,1.5,Lung & Bronchus,614,Polk County Landfill #1,GA
+Polk,13233,,5.4,13.3,4.0,*,,*,*,Liver,591,Grady Road Landfill,GA
+Polk,13233,,5.4,13.3,4.0,*,,*,*,Liver,614,Polk County Landfill #1,GA
+Polk,13233,,13.3,25.2,9.0,stable,,-1.8,6.6,Leukemia,591,Grady Road Landfill,GA
+Polk,13233,,13.3,25.2,9.0,stable,,-1.8,6.6,Leukemia,614,Polk County Landfill #1,GA
+Polk,13233,,16.4,28.9,11.0,rising,3.7,0.7,6.9,Kidney,591,Grady Road Landfill,GA
+Polk,13233,,16.4,28.9,11.0,rising,3.7,0.7,6.9,Kidney,614,Polk County Landfill #1,GA
+Clarke,13059,18.3,14.6,22.6,17.0,stable,-0.1,-2.7,2.6,Non-Hodgkin Lymphoma,557,Athens-Clarke County Landfill,GA
+Clarke,13059,,5.8,10.9,9.0,*,,*,*,Liver,557,Athens-Clarke County Landfill,GA
+Clarke,13059,,12.5,19.9,16.0,stable,,-2.1,4.4,Leukemia,557,Athens-Clarke County Landfill,GA
+Banks,13011,18,11,28.2,4.0,stable,-1,-6.2,4.6,Non-Hodgkin Lymphoma,615,R & B (Banks) Landfill,GA
+Houston,13153,17.9,14.9,21.3,26.0,stable,-0.1,-1.6,1.5,Non-Hodgkin Lymphoma,621,SR247 MSW Landfill,GA
+Houston,13153,,5.2,9.1,11.0,rising,,0.3,8.1,Liver,621,SR247 MSW Landfill,GA
+Houston,13153,,14.8,21.3,26.0,stable,,-0.8,3.6,Leukemia,621,SR247 MSW Landfill,GA
+Murray,13213,,76.7,102.5,40.0,falling,,-4,-0.6,Lung & Bronchus,607,Murray County Landfill,GA
+Murray,13213,,7.3,16.5,5.0,*,,*,*,Liver,607,Murray County Landfill,GA
+Murray,13213,,13.7,26.9,8.0,stable,,-2.2,5.5,Leukemia,607,Murray County Landfill,GA
+Murray,13213,,13.1,25.7,8.0,stable,2.7,-1,6.5,Kidney,607,Murray County Landfill,GA
+Barrow,13013,,77.8,97.9,64.0,stable,,-1.6,1.8,Lung & Bronchus,609,Oak Grove Landfill,GA
+Barrow,13013,,6.7,13.3,8.0,stable,,-1.7,5.6,Liver,609,Oak Grove Landfill,GA
+Barrow,13013,,12.4,21.4,11.0,stable,,-1.5,5.7,Leukemia,609,Oak Grove Landfill,GA
+Barrow,13013,,13.8,22.9,13.0,stable,-1,-3.6,1.6,Kidney,609,Oak Grove Landfill,GA
+Taylor,13269,,64.7,115.5,11.0,stable,,-2.9,4.5,Lung & Bronchus,630,"WI Taylor County Disposal, LLC",GA
+Monroe,13207,,70.1,98.3,30.0,stable,,-1.5,3.3,Lung & Bronchus,572,"City of Forsyth-Old Brent Road, Phase I&II",GA
+Monroe,13207,,8.3,20.8,5.0,*,,*,*,Liver,572,"City of Forsyth-Old Brent Road, Phase I&II",GA
+Monroe,13207,,11.2,25.1,6.0,*,,*,*,Leukemia,572,"City of Forsyth-Old Brent Road, Phase I&II",GA
+Laurens,13175,,70.5,91.3,49.0,stable,,-1.2,1.9,Lung & Bronchus,601,Laurens County - Old Macon Road MSWL,GA
+Laurens,13175,,4.1,10.8,4.0,*,,*,*,Liver,601,Laurens County - Old Macon Road MSWL,GA
+Laurens,13175,,13.8,24.2,11.0,stable,1.9,-2.9,6.9,Kidney,601,Laurens County - Old Macon Road MSWL,GA
+Decatur,13087,,66.7,94.5,27.0,stable,,-1,3.7,Lung & Bronchus,582,Decatur County Solid Waste Facility,GA
+Decatur,13087,,66.7,94.5,27.0,stable,,-1,3.7,Lung & Bronchus,598,Highway 309 Landfill,GA
+Decatur,13087,,12.8,27.2,6.0,stable,-0.1,-4.1,4,Kidney,582,Decatur County Solid Waste Facility,GA
+Decatur,13087,,12.8,27.2,6.0,stable,-0.1,-4.1,4,Kidney,598,Highway 309 Landfill,GA
+Liberty,13179,,67.1,92.5,35.0,stable,,-2.7,1.2,Lung & Bronchus,602,Liberty County LF,GA
+Liberty,13179,,4.3,12.1,4.0,stable,,-5.4,7.8,Liver,602,Liberty County LF,GA
+Liberty,13179,,12.7,25.4,8.0,stable,0.5,-2.9,4.1,Kidney,602,Liberty County LF,GA
+Twiggs,13289,,58.2,103.8,11.0,stable,,-4.4,1.8,Lung & Bronchus,632,"Wolf Creek Landfill, LLC",GA
+Wayne,13305,,63.7,90.5,27.0,stable,,-4.8,0.1,Lung & Bronchus,562,Broadhurst Environmental Landfill,GA
+Wayne,13305,,5.8,16.1,4.0,*,,*,*,Liver,562,Broadhurst Environmental Landfill,GA
+Wayne,13305,,10.5,23.5,5.0,*,,*,*,Leukemia,562,Broadhurst Environmental Landfill,GA
+Wayne,13305,,18.9,35.2,9.0,stable,4.5,0,9.1,Kidney,562,Broadhurst Environmental Landfill,GA
+Lamar,13171,,60.3,93.8,18.0,stable,,-3.3,2.1,Lung & Bronchus,568,Cedar Grove Landfill,GA
+Lamar,13171,,11.1,28.7,4.0,*,*,*,*,Kidney,568,Cedar Grove Landfill,GA
+Atkinson,13003,,51.9,106.4,7.0,stable,,-2.6,3.9,Lung & Bronchus,558,Atkinson County - SR 50 MSWL,GA
+Whitfield,13313,,8.3,14.1,12.0,*,,*,*,Liver,610,Old Dixie Highway MSW Landfill,GA
+Whitfield,13313,,12.4,19.5,16.0,stable,,-1.5,3.7,Leukemia,610,Old Dixie Highway MSW Landfill,GA
+Troup,13285,,7.5,14.2,9.0,rising,,1,8.1,Liver,573,City of LaGrange Landfill,GA
+Troup,13285,,13.7,22.7,13.0,stable,,-0.4,5.4,Leukemia,573,City of LaGrange Landfill,GA
+Troup,13285,,16.6,26.2,16.0,rising,3.1,1.5,4.8,Kidney,573,City of LaGrange Landfill,GA
+Chatham,13051,,7.5,10.5,30.0,rising,,1.2,6.6,Liver,618,Savannah-Dean Forest Road SL,GA
+Chatham,13051,,7.5,10.5,30.0,rising,,1.2,6.6,Liver,622,Superior Landfill & Recycling Center,GA
+Walker,13295,,5.5,11.2,7.0,stable,,-1.4,5.3,Liver,605,Marble Top Road Landfill,GA
+Dougherty,13095,,4.8,9.7,7.0,stable,,-0.9,7.3,Liver,583,Dougherty County Fleming/Gaissert Road LF,GA
+Dougherty,13095,,13.8,21.5,18.0,stable,1.3,-1.1,3.7,Kidney,583,Dougherty County Fleming/Gaissert Road LF,GA
+Catoosa,13047,,3.7,8.7,5.0,*,,*,*,Liver,567,Catoosa County MSW LF,GA
+Columbia,13073,,3.5,7,8.0,stable,,-3.7,4.7,Liver,559,Baker Place Road Landfill (Ph 1 & 2),GA
+Butts,13035,,13.2,30.4,5.0,stable,,-1.6,9.2,Leukemia,613,Pine Ridge Landfill,GA
+Butts,13035,,13.4,29,6.0,*,*,*,*,Kidney,613,Pine Ridge Landfill,GA
+Meriwether,13199,,12,28.7,5.0,stable,,-2.1,8.8,Leukemia,625,Turkey Run Landfill,GA
+Jefferson,13163,,14.4,35.3,5.0,*,*,*,*,Kidney,599,Jefferson County CR-138 MSWL,GA
+Crisp,13081,,13.4,30,6.0,stable,1.3,-3.1,6,Kidney,580,Crisp County Landfill,GA

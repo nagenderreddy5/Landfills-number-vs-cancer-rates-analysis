@@ -1,0 +1,162 @@
+County, FIPS,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval,CancerType
+Georgia,13000,14.7,14.3,15,1512.00,stable,-1.6,-4.8,1.8,Leukemia
+US,0,14.2,14.2,14.3,51227.00,falling,-2.1,-3.7,-0.5,Leukemia
+Union,13291,25.4,17,36.7,9.00,stable,3.7,-0.4,8,Leukemia
+Butts,13035,20.5,13.2,30.4,5.00,stable,3.7,-1.6,9.2,Leukemia
+Newton,13217,20.1,16.3,24.6,20.00,stable,3.5,-0.5,7.7,Leukemia
+Tift,13277,20,14.5,27,9.00,stable,2,-1.8,5.9,Leukemia
+Gilmer,13123,19.7,14.1,27.2,9.00,stable,2,-2.2,6.4,Leukemia
+Forsyth,13117,19.6,16.8,22.7,37.00,stable,1.7,-0.7,4.1,Leukemia
+Murray,13213,19.5,13.7,26.9,8.00,stable,1.6,-2.2,5.5,Leukemia
+Meriwether,13199,19,12,28.7,5.00,stable,3.2,-2.1,8.8,Leukemia
+Mitchell,13205,19,12.3,28.2,5.00,*,*,*,*,Leukemia
+Grady,13131,18.9,12.6,27.6,6.00,*,*,*,*,Leukemia
+Berrien,13019,18.8,11.6,29,4.00,*,*,*,*,Leukemia
+Greene,13133,18.8,11.9,29,5.00,*,*,*,*,Leukemia
+Morgan,13211,18.8,11.8,28.8,5.00,*,*,*,*,Leukemia
+Polk,13233,18.6,13.3,25.2,9.00,stable,2.3,-1.8,6.6,Leukemia
+Glynn,13127,18.6,14.9,22.9,19.00,stable,2.7,-0.3,5.7,Leukemia
+Worth,13321,18.4,11.5,28,5.00,*,*,*,*,Leukemia
+Bryan,13029,18.4,12.2,26.4,6.00,stable,2,-2.6,6.9,Leukemia
+Dawson,13085,18.1,11.6,27.1,6.00,stable,-0.7,-5.1,3.9,Leukemia
+Screven,13251,17.9,10,30,3.00,*,*,*,*,Leukemia
+Houston,13153,17.9,14.8,21.3,26.00,stable,1.4,-0.8,3.6,Leukemia
+Troup,13285,17.8,13.7,22.7,13.00,stable,2.4,-0.4,5.4,Leukemia
+Bibb,13021,17.5,14.8,20.6,31.00,stable,1.4,-1.1,3.8,Leukemia
+Habersham,13137,17.5,12.9,23.3,10.00,rising,3.7,0.3,7.1,Leukemia
+Bartow,13015,17.3,13.8,21.4,18.00,stable,0.2,-2.7,3.3,Leukemia
+Rockdale,13247,17.2,13.5,21.6,16.00,rising,3.3,0.2,6.4,Leukemia
+Walton,13297,17.2,13.7,21.4,17.00,stable,1.9,-1.5,5.5,Leukemia
+Rabun,13241,17.1,10.5,27.2,5.00,*,*,*,*,Leukemia
+Monroe,13207,17.1,11.2,25.1,6.00,*,*,*,*,Leukemia
+Haralson,13143,17.1,11.2,25,6.00,stable,3.5,-0.2,7.3,Leukemia
+Cook,13075,17,9.6,27.8,3.00,*,*,*,*,Leukemia
+Thomas,13275,16.9,12.3,22.8,9.00,rising,2.7,0.4,5.1,Leukemia
+Putnam,13237,16.9,10.3,26.4,5.00,*,*,*,*,Leukemia
+McDuffie,13189,16.7,9.9,26.4,4.00,*,*,*,*,Leukemia
+Harris,13145,16.7,11.6,23.5,8.00,*,*,*,*,Leukemia
+Lumpkin,13187,16.7,11.1,24.3,6.00,stable,-0.9,-5.1,3.4,Leukemia
+Jackson,13157,16.6,12.5,21.8,11.00,stable,1.7,-1.8,5.3,Leukemia
+Peach,13225,16.6,10.8,24.7,5.00,*,*,*,*,Leukemia
+Pickens,13227,16.5,11.1,23.7,7.00,stable,2.5,-1,6.1,Leukemia
+Gordon,13129,16.5,12.1,21.8,10.00,stable,-2,-4.6,0.7,Leukemia
+Barrow,13013,16.4,12.4,21.4,11.00,stable,2,-1.5,5.7,Leukemia
+Madison,13195,16.4,10.5,24.4,5.00,rising,4.9,1,8.9,Leukemia
+Coweta,13077,16.3,13.3,19.7,22.00,stable,1.7,-1.3,4.8,Leukemia
+Coffee,13069,16.1,11.1,22.6,7.00,stable,1,-3,5.1,Leukemia
+Cherokee,13057,16,13.7,18.6,37.00,stable,7.7,-4.9,22,Leukemia
+Wayne,13305,16,10.5,23.5,5.00,*,*,*,*,Leukemia
+Henry,13151,15.9,13.4,18.8,30.00,stable,2.1,-0.8,5.1,Leukemia
+Clarke,13059,15.9,12.5,19.9,16.00,stable,1.1,-2.1,4.4,Leukemia
+Emanuel,13107,15.8,9.7,24.5,4.00,stable,0.2,-3.9,4.5,Leukemia
+Elbert,13105,15.8,9.3,25.3,4.00,stable,-1.8,-6.3,2.9,Leukemia
+Whitfield,13313,15.7,12.4,19.5,16.00,stable,1.1,-1.5,3.7,Leukemia
+Hall,13139,15.5,13.1,18.2,31.00,rising,2.4,0.5,4.5,Leukemia
+Gwinnett,13135,15.5,14.1,16.9,112.00,rising,1.4,0.6,2.2,Leukemia
+Toombs,13279,15.4,9.7,23.3,5.00,stable,2.7,-2.1,7.8,Leukemia
+Spalding,13255,15.4,11.6,20,12.00,stable,0.8,-2.2,3.8,Leukemia
+Clayton,13063,15.1,12.7,17.9,32.00,rising,2.6,1.5,3.7,Leukemia
+Upson,13293,15.1,9.7,22.6,5.00,*,*,*,*,Leukemia
+Carroll,13045,15.1,12,18.8,17.00,stable,2.1,-0.5,4.8,Leukemia
+Lowndes,13185,15,11.8,18.7,16.00,stable,1.9,-0.4,4.2,Leukemia
+Muscogee,13215,15,12.6,17.6,30.00,stable,1.4,-0.3,3.2,Leukemia
+Jones,13169,15,9.6,22.4,5.00,*,*,*,*,Leukemia
+DeKalb,13089,14.9,13.6,16.3,100.00,rising,1.1,0.3,1.8,Leukemia
+Towns,13281,14.8,8.4,26.9,4.00,stable,0.2,-6,6.7,Leukemia
+Floyd,13115,14.8,11.7,18.4,17.00,stable,2.1,-2.2,6.6,Leukemia
+Fulton,13121,14.5,13.4,15.7,135.00,rising,0.9,0.3,1.6,Leukemia
+Fannin,13111,14.5,9.7,21.5,7.00,*,*,*,*,Leukemia
+Liberty,13179,14.4,9.6,20.8,7.00,stable,5.2,-0.9,11.6,Leukemia
+Lee,13177,14.3,8.5,22.6,4.00,*,*,*,*,Leukemia
+Stephens,13257,14.3,8.7,22.2,4.00,stable,0.7,-4.3,5.9,Leukemia
+Fayette,13113,14.3,11.5,17.6,19.00,stable,0,-2.2,2.2,Leukemia
+Camden,13039,14,9.4,20,6.00,stable,1.2,-2.9,5.5,Leukemia
+Paulding,13223,14,11.1,17.3,18.00,stable,-0.6,-3.3,2.2,Leukemia
+Dodge,13091,13.6,7.8,22.1,3.00,*,*,*,*,Leukemia
+Dougherty,13095,13.5,10.4,17.3,13.00,stable,0,-3,3,Leukemia
+Burke,13033,13.1,7.4,21.4,3.00,stable,1.9,-2.8,6.8,Leukemia
+Baldwin,13009,13,8.9,18.5,7.00,stable,-0.1,-3.7,3.5,Leukemia
+Colquitt,13071,13,8.8,18.6,6.00,stable,-1.8,-5.4,1.9,Leukemia
+Richmond,13245,12.9,10.8,15.4,26.00,stable,0.2,-2.4,2.9,Leukemia
+Sumter,13261,12.8,7.9,19.7,4.00,stable,1.8,-2.2,5.9,Leukemia
+Douglas,13097,12.7,10,15.9,17.00,stable,-2.2,-5,0.8,Leukemia
+Cobb,13067,12.7,11.5,14,89.00,stable,-0.1,-0.9,0.8,Leukemia
+Effingham,13103,12.1,8.3,17.1,7.00,stable,1.1,-2.9,5.3,Leukemia
+White,13311,12.1,7.6,18.5,5.00,*,*,*,*,Leukemia
+Catoosa,13047,12,8.8,16.1,10.00,stable,-1.8,-5.6,2.2,Leukemia
+Bulloch,13031,12,8.3,16.6,7.00,stable,0.4,-5.2,6.2,Leukemia
+Hart,13147,11.5,7,18.2,4.00,stable,-1.1,-4.7,2.6,Leukemia
+Chatham,13051,11.2,9.5,13.1,34.00,stable,1.3,-1,3.7,Leukemia
+Laurens,13175,11,7.4,15.8,6.00,stable,-1.9,-6,2.3,Leukemia
+Decatur,13087,10.8,6.3,17.4,4.00,stable,0.3,-3.7,4.4,Leukemia
+Walker,13295,10.8,7.9,14.5,10.00,stable,-2.3,-5.7,1.3,Leukemia
+Oconee,13219,10.8,6.5,16.9,4.00,*,*,*,*,Leukemia
+Columbia,13073,10.4,8.1,13.2,15.00,stable,-1.6,-4.1,0.9,Leukemia
+Ware,13299,9.8,5.9,15.3,4.00,stable,-1.2,-5.4,3.2,Leukemia
+Appling,13001,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Atkinson,13003,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Bacon,13005,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Baker,13007,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Banks,13011,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Ben Hill,13017,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Bleckley,13023,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Brantley,13025,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Brooks,13027,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Calhoun,13037,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Candler,13043,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Charlton,13049,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Chattahoochee,13053,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Chattooga,13055,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Clay,13061,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Clinch,13065,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Crawford,13079,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Crisp,13081,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Dade,13083,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Dooly,13093,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Early,13099,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Echols,13101,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Evans,13109,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Franklin,13119,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Glascock,13125,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Hancock,13141,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Heard,13149,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Irwin,13155,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Jasper,13159,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Jeff Davis,13161,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Jefferson,13163,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Jenkins,13165,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Johnson,13167,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Lamar,13171,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Lanier,13173,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Lincoln,13181,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Long,13183,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Macon,13193,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Marion,13197,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+McIntosh,13191,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Miller,13201,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Montgomery,13209,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Oglethorpe,13221,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Pierce,13229,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Pike,13231,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Pulaski,13235,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Quitman,13239,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Randolph,13243,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Schley,13249,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Seminole,13253,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Stewart,13259,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Talbot,13263,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Taliaferro,13265,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Tattnall,13267,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Taylor,13269,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Telfair,13271,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Terrell,13273,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Treutlen,13283,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Turner,13287,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Twiggs,13289,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Warren,13301,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Washington,13303,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Webster,13307,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Wheeler,13309,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Wilcox,13315,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Wilkes,13317,* ,*, *,3 or fewer,*,*,*,*,Leukemia
+Wilkinson,13319,* ,*, *,3 or fewer,*,*,*,*,Leukemia
